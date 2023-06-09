@@ -194,8 +194,17 @@ body {
     .search label {
         display: none;
     }
+    .search input {
+        width: 35%;
+    }
+    .options {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: .5rem;
+    }
     .character-container {
         flex-direction: column-reverse;
+        align-items: center;
     }
     .content p {
         font-size: 1rem;
