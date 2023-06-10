@@ -7,7 +7,7 @@ Este projeto é um teste consumindo uma API.
 ## 🚀 Finalizado!
 
 ## 📋 Tecnologias
-JavaScript
+HTML + CSS + JavaScript + API
 
 ## ✒️ Autor
 Márcio Reis
