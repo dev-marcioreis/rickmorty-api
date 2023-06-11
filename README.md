@@ -2,7 +2,8 @@
 
 ---
 
-Este projeto é um teste consumindo uma API.
+Este projeto é um teste consumindo uma API.<br>
+Projeto teste, aprendizado, aperfeiçoando habilidades em JavaScript...
 
 ## 🚀 Finalizado!
 
